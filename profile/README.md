@@ -4,7 +4,7 @@
 Open Space Launch Foundation is developing OpenSASI, the world's first open-source launch vehicle development platform, to make space exploration accessible to all.
 
 ## Our Mission
-Our mission is to empower students and hobbyists worldwide to launch space missions collaboratively, with a particular emphasis on nurturing talent and opportunities in the Middle East and Africa. Under the guidance of UK leadership, we are dedicated to making space exploration a safe, inclusive, and exciting frontier for anyone.
+Our mission is to empower students and hobbyists worldwide to launch space missions collaboratively, particularly in nurturing talent and opportunities in the Middle East and Africa. Under the guidance of UK leadership, we are dedicated to making space exploration a safe, inclusive, and exciting frontier for anyone.
 
 ## Our Objectives
 1. Develop Open Student-Amateur Space Initiative (OpenSASI)
