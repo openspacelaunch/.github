@@ -1,7 +1,7 @@
-# Open Space Launch Foundation
+# Open Space Launch
 
 ## Democratizing Space Launch Technology
-Open Space Launch Foundation is developing OpenSASI, the world's first open-source launch vehicle development platform, to make space exploration accessible to all.
+Open Space Launch is developing OpenSASI, the world's first open-source launch vehicle development platform, to make space exploration accessible to all.
 
 ## Our Mission
 Our mission is to empower students and hobbyists worldwide to launch space missions collaboratively, particularly in nurturing talent and opportunities in the Middle East and Africa. Under the guidance of UK leadership, we are dedicated to making space exploration a safe, inclusive, and exciting frontier for anyone.
@@ -23,3 +23,8 @@ Empower amateur and student space programs to achieve ambitious goals, including
 
 Contact [hello@openspacelaunch.org](mailto:hello@openspacelaunch.org)
 [Learn more](https://openspacelaunch.org)
+
+© 2024 Open Space Launch Ltd. All rights reserved.\
+Open Space Launch Ltd is a (nonprofit) company limited by guarantee
+registered in England and Wales with company number 16101697.\
+30 Churchill Place, Canary Wharf, London E14 5RE, United Kingdom.
